@@ -1,5 +1,12 @@
 # 🛒 Olist E-Commerce Analytics | PostgreSQL + Power BI
 ## Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+## Dashboard File
+
+Due to GitHub file size limits, the Power BI dashboard can be downloaded here:
+
+🔗 Google Drive Link:-https://drive.google.com/drive/folders/1qOXnz25Th_Hr7Eb_io6G6_kbkM1Rw8AF?usp=drive_link
+
 ## 📌 Project Overview
 
 This project is an end-to-end **Business Intelligence solution** built using **PostgreSQL** and **Power BI** on the Olist Brazilian E-Commerce dataset.
