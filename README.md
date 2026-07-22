@@ -1,5 +1,5 @@
 # 🛒 Olist E-Commerce Analytics | PostgreSQL + Power BI
-
+## Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ## 📌 Project Overview
 
 This project is an end-to-end **Business Intelligence solution** built using **PostgreSQL** and **Power BI** on the Olist Brazilian E-Commerce dataset.
